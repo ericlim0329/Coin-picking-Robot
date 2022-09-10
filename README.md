@@ -1,5 +1,5 @@
 # Coin picking Robot
- Robot that is autonomous or controlled to pick up coins
+ Robot that is autonomous or controlled to pick up coins.
 This robot was made as a final project for ELEC291 (electrical engineering design studio) with 6 students total
 
 Peter van den Doel
